@@ -1,0 +1,3 @@
+[submodule "3rdparty/USBCAN_SDK"]
+	path = 3rdparty/USBCAN_SDK
+	url = https://github.com/ConstantRobotics/USBCAN_SDK.git

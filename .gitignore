@@ -1,0 +1,18 @@
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific files (MonoDevelop/Xamarin Studio)
+*.userprefs
+
+# Build results
+[Bb]uild/
+.vs/
+.vscode/
+out/
+
+CMakeSettings.json
+
+*.psd
