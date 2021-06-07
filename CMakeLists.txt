@@ -19,4 +19,4 @@ add_subdirectory(3rdparty)
 # src
 add_subdirectory(src)
 # examples
-add_subdirectory(examples)
+#add_subdirectory(examples)
